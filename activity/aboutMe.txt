@@ -1,0 +1,7 @@
+Hi there!
+
+My name is Gerson T. de Ocampo, I was born in June 8, 2001 at DLSUMC. I am a 4th Year Computer Science Student majoring Game Development. I have passion in making game assets especially coding. My hopes of having a position in a company is to be a QA Tester or a Developer. If i'm not blessed with opportunity, I will try to be a Video Game Streamer/Content Creator. 
+
+My motivation to join a bootcamp stems from its swift practical skill acquisition, career pivot opportunities, industry networking, cost-effectiveness, and efficient, dynamic learning that bridges theory with application. This experience enhances job market competitiveness and personal growth.
+
+My work experience being a QA Intern is really suprising for me because we only try to find bugs in the website and report it to the developers. Good thing while I explore the website, I managed to find an old bug that was supposedly to be fixed already. The regular employees are really nice and they are really helpful. I learned a lot from them and I am really thankful for that. I also saw them working on another app and testing the mobile app automatically and I was really encouraged to do it but I had to go manual testing first.

@@ -99,3 +99,23 @@ Git Config
         - git config --global <emailUsedInGithub>
 
 For pushing for the first time
+    git status -> git add . -> git commit -m "commitMessage"-> git push -u origin master/main
+
+/*
+    Main activity (activity folder of session)
+
+    1. In the s01 folder, change the directory from discussion to activity folder and create a new inside the activity folder and name it aboutMe.txt.
+    2. Peek at the states of the files/folders using git status.
+    3. Stage the files in preparation for creating a commit using git add.
+    4. Create a commit using git commit. Write the message "Initialize activity
+    5. Write a brief story about yourself on google docs or word
+    6. Save your work
+    7. Check commit history using git log/git log --oneline.
+    8. Add a paragraph that describes your motivation in joining the bootcamp.
+    9. Check the status of the files/folders, stage the files and create a commit.
+    10. Add a paragraph that briefly narrates your work experience.
+    11. Check the status of the files/ folders, stage the files and create a commit again.
+    12. Connect to a remote repositoryusing git remote add origin.
+    13. Upload your changes to the GitLab project by doing git push origin master.
+    14. Add the link and screenshot the Github and Git Bash.
+*/
